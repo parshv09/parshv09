@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/parshv athane">
+  <a href="https://www.linkedin.com/in/parshv-athane-980982267">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:parshvathane02@gmail.com">
