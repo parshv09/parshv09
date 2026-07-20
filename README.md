@@ -26,30 +26,6 @@
 - 🚀 Actively improving **DSA & problem-solving skills**
 - 🤝 Open to **internships, collaborations & open-source contributions**
 
----
-
-## 🔭 Currently Working On
-
-### 🧠 MockMate – AI Based Mock Interview System
-- AI-generated interview questions  
-- Text & voice answers with evaluation  
-- NLP-based scoring & feedback  
-
-🔗 **Repository:** https://github.com/parshv09/MockMate.git
-
----
-
-## 👯 Looking to Collaborate On
-
-### 🌍 Voice4Change – AI Powered Civic Policy Feedback Portal
-- Platform for citizen feedback & opinions  
-- AI-assisted analysis of public sentiment  
-
-🔗 **Repository:** https://github.com/parshv09/voice4change.git
-
----
-
-## 💬 Ask Me About
 
 ---
 
