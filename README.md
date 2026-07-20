@@ -22,7 +22,7 @@
 
 - 🎓 Computer Science Engineer from **India**
 - 💡 Passionate about **building real-world, scalable applications**
-- 🧠 Strong interest in **Backend Development, System Design & AI-powered systems**
+- 🧠 Strong interest in **Backend Development, Full stack & AI-powered systems**
 - 🚀 Actively improving **DSA & problem-solving skills**
 - 🤝 Open to **internships, collaborations & open-source contributions**
 
@@ -32,7 +32,7 @@
 ## 📫 How to Reach Me
 
 - 📧 Email: **parshvathane02@gmail.com**
-- 💼 LinkedIn: https://linkedin.com/in/parshv athane
+- 💼 LinkedIn: https://linkedin.com/in/parshv-athane-980982267
 - 🌐 Portfolio: https://parshv09.github.io/Portfolio/
 
 ---
